@@ -1,0 +1,16 @@
+/home/blake/Documents/VS Code/HelloWorld/bin/Debug/net5.0/HelloWorld
+/home/blake/Documents/VS Code/HelloWorld/bin/Debug/net5.0/HelloWorld.deps.json
+/home/blake/Documents/VS Code/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.json
+/home/blake/Documents/VS Code/HelloWorld/bin/Debug/net5.0/HelloWorld.runtimeconfig.dev.json
+/home/blake/Documents/VS Code/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+/home/blake/Documents/VS Code/HelloWorld/bin/Debug/net5.0/ref/HelloWorld.dll
+/home/blake/Documents/VS Code/HelloWorld/bin/Debug/net5.0/HelloWorld.pdb
+/home/blake/Documents/VS Code/HelloWorld/obj/Debug/net5.0/HelloWorld.csprojAssemblyReference.cache
+/home/blake/Documents/VS Code/HelloWorld/obj/Debug/net5.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/blake/Documents/VS Code/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfoInputs.cache
+/home/blake/Documents/VS Code/HelloWorld/obj/Debug/net5.0/HelloWorld.AssemblyInfo.cs
+/home/blake/Documents/VS Code/HelloWorld/obj/Debug/net5.0/HelloWorld.csproj.CoreCompileInputs.cache
+/home/blake/Documents/VS Code/HelloWorld/obj/Debug/net5.0/HelloWorld.dll
+/home/blake/Documents/VS Code/HelloWorld/obj/Debug/net5.0/ref/HelloWorld.dll
+/home/blake/Documents/VS Code/HelloWorld/obj/Debug/net5.0/HelloWorld.pdb
+/home/blake/Documents/VS Code/HelloWorld/obj/Debug/net5.0/HelloWorld.genruntimeconfig.cache
